@@ -17,11 +17,8 @@ const Bigcardtrend = () => {
           nemo minima nam, sunt repudiandae pariatur fugiat, nihil voluptates ad
           amet fuga debitis qui incidunt ipsam? dsadasdsadsa
         </p>
-        
           </div>
         </div>
-       
-     
     </>
   );
 };
