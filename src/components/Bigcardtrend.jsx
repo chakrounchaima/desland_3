@@ -15,7 +15,7 @@ const Bigcardtrend = () => {
           dignissimos in aliquid. Lorem ipsum dolor sit amet consectetur,
           adipisicing elit. Aperiam culpa, perspiciatis suscipit natus assumenda
           nemo minima nam, sunt repudiandae pariatur fugiat, nihil voluptates ad
-          amet fuga debitis qui incidunt ipsam?
+          amet fuga debitis qui incidunt ipsam? dsadasdsadsa
         </p>
         
           </div>
